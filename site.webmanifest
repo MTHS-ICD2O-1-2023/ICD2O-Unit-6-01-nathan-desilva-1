@@ -2,8 +2,8 @@
   "name": "Nathan's App",
   "short_name": "Nathan's App",
   "description": "Github Page for Nathan's App",
-  "scope": "/ICD2O-Unit-5-08/",
-  "start_url": "/ICD2O-Unit-5-08/",
+  "scope": "/ICD2O-Unit-6-01/",
+  "start_url": "/ICD2O-Unit-6-01/",
   "permissions": [
     "unlimitedStorage",
     "fullscreen"
